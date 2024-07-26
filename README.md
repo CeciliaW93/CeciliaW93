@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CeciliaW93
-- 👀 I’m interested in GIS, Python, SQL, machine learning
+- 👀 I’m interested in GIS, Python, SQL, and machine learning
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on GIS projects
 - 📫 How to reach me LinkedIn
